@@ -1,0 +1,20 @@
+Sample Windows shell script report 
+  
+Created by Boris 
+ 
+ 
+Scripting residing in C:\SCRIPTS: 
+--------------------------------------------------------------------------- 
+ 
+ Volume in drive D is dev
+ Volume Serial Number is DCA8-E7CA
+
+ Directory of D:\Projects\batch\scripts
+
+01/06/2020  03:25 am               872 knockKnock.bat
+06/06/2020  11:48 pm               904 reporter.bat
+06/06/2020  10:27 pm               968 ScriptInit.bat
+06/06/2020  10:11 pm               474 scriptTemplate.bat
+02/06/2020  12:56 am               745 unpredictableCMD.bat
+               5 File(s)          3,963 bytes
+               0 Dir(s)  646,822,887,424 bytes free

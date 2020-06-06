@@ -6,6 +6,12 @@ CMD /T:F0						   Revert color system from black and white to vice verca
 START /MAX /ABOVENORMAL            Open new cmd window with max size and hight priority
 
 
+TYPE file                          Will print all content from file
+
+SORT                               The SORT command sorts data as input and sends the result to standard output.
+
+TYPE file | SORT                   Combine to commands( send the output of first command as the input of the second command 
+
 
 
 
